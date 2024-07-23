@@ -29,6 +29,8 @@
 | 쉐어<br>영수증 | 2023.08.24 ~ ing | Front 3 Back 1 | 여행, 맛집 등의 카테고리로 동행자를 찾아 모임을 만드는 서비스 | Kotlin Android + Java Spring | Back 47 <br> Front 18 | [Back](https://github.com/CODE-U-S/Shared_Receipts_Backend) <br> [Front](https://github.com/CODE-U-S/Shared_Receipts_Application) |
 | Mirio | 2023 | Front, Back 2 | 미림 학교를 대상으로 학교 탈출하는 게임 | Java GUI | 64 | [링크](https://github.com/CODE-U-S/Mirio) |
 
+[진행 중인 1일 1코딩테스트 Github 주소](https://github.com/CODE-U-S/Coding_Test_Study)
+
 <br>
 
 ## 수상 및 이수 내역
