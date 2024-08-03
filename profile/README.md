@@ -13,13 +13,11 @@
    
    <img src="https://github.com/user-attachments/assets/d272004a-9caa-4874-84a9-9fdd8cf6b5ad" width="80%" /><br><br><br><br><br>
 
-   [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=CODE-U-S&repo=CodeUS&theme=github_dark"/><img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=CODE-U-S&repo=CodeUS" width="-20%"></picture>](https://github.com/CODE-U-S/CodeUS)
-   [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=CODE-U-S&repo=CodeUS-Backend&theme=github_dark"/><img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=CODE-U-S&repo=CodeUS-Backend" width="-20%"></picture>](https://github.com/CODE-U-S/COdeUS-Backend)
+   [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=CODE-U-S&repo=CodeUS&theme=github_dark"/><img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=CODE-U-S&repo=CodeUS" width="40%"></picture>](https://github.com/CODE-U-S/CodeUS)
+   [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=CODE-U-S&repo=CodeUS-Backend&theme=github_dark"/><img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=CODE-U-S&repo=CodeUS-Backend" width="40%"></picture>](https://github.com/CODE-U-S/COdeUS-Backend)
 
    <br><br><br>
    <img src="https://github.com/user-attachments/assets/dd566259-df27-4e1d-b76c-8c9f6df927e6" /><br>
    <img src="https://github.com/user-attachments/assets/2c07b72d-f433-49db-87fb-ab831bf2709e" width="90%" />
-
-
 
 </div>
