@@ -1,9 +1,6 @@
 <div align="center">
    <br><br>
    
-   <img src="https://github.com/user-attachments/assets/e2a531a2-345f-4e27-9dcc-afc2ed5aee83" width="65%" />
-
-   
    <img width="7842" height="6212" alt="Image" src="https://github.com/user-attachments/assets/f3cd6f33-2717-463d-a39b-d99ee7cc62c4" /><br><br>
    
    <code><img height="45" src="https://skillicons.dev/icons?i=java,kotlin,spring,mysql,postgresql,redis,express,nodejs,sequelize,nestjs&theme=light"></code><br>
