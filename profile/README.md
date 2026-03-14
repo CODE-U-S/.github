@@ -4,7 +4,7 @@
    <img src="https://github.com/user-attachments/assets/e2a531a2-345f-4e27-9dcc-afc2ed5aee83" width="65%" />
 
    
-   <img src="https://github.com/user-attachments/assets/1ced62b3-d93b-42b1-88ba-2571053d7add" /><br><br>
+   <img width="7842" height="6212" alt="Image" src="https://github.com/user-attachments/assets/f3cd6f33-2717-463d-a39b-d99ee7cc62c4" /><br><br>
    
    <code><img height="45" src="https://skillicons.dev/icons?i=java,kotlin,spring,mysql,postgresql,redis,express,nodejs,sequelize,nestjs&theme=light"></code><br>
    <code><img height="45" src="https://skillicons.dev/icons?i=react,tailwind,js,ts,flutter,html,css&theme=light"></code>
